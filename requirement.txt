@@ -4,4 +4,4 @@ numpy
 pandas
 sklearn
 joblib
-streamlit==1.09
+streamlit==1.12
