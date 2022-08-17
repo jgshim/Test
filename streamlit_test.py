@@ -74,9 +74,7 @@ LDL = st.number_input("Enter LDL")
 
 # If button is pressed
 if st.button("Submit"):
-    # Unpickle classifier
-    clf = joblib.load("clf.pkl")
-
+   
     # Store inputs into dataframe
 
     X = pd.DataFrame([[Age, Sex, Smoking, BMI, BSA, Waist, SBP, DBP, HR, Dyslipidemia, Hypertension,
