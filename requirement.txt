@@ -2,6 +2,6 @@ tensorflow
 keras
 numpy
 pandas
-scikit-learn
+sklearn
 joblib
-streamlit==1.12.0
+streamlit==1.11.1
