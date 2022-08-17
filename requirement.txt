@@ -1,0 +1,7 @@
+tensorflow
+keras
+numpy
+pandas as pd
+sklearn
+joblib
+streamlit
