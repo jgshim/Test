@@ -1,8 +1,6 @@
 tensorflow
-keras
 numpy
 pandas
 sklearn
 joblib
-h5py==2.10.0
 streamlit
