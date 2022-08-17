@@ -1,7 +1,7 @@
-tensorflow
-keras
-numpy
+tensorflow==2.9.1
+keras==2.9.0
+numpy==1.23.1
 pandas
 scikit-learn
 joblib
-streamlit
+streamlit==1.11.1
