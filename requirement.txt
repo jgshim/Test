@@ -1,7 +1,7 @@
 tensorflow
 keras
 numpy
-pandas as pd
-sklearn
+pandas
+scikit-learn
 joblib
 streamlit==1.12.0
