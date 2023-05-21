@@ -2,7 +2,6 @@ tensorflow
 keras
 numpy
 pandas
-sklearn
 scikit-learn
 joblib
 streamlit
